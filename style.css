@@ -1,5 +1,13 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+.divider {
+  border-bottom: 2px solid #0163ee;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: 3rem;
+}
+.img-thumbnails {
+  max-width: 100%;
+  height: auto;
+}
+.shadow-lg {
+  box-shadow: 1rem rgba(0, 0, 0, 0.15) !important;
 }
